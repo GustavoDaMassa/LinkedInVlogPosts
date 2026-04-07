@@ -8,9 +8,4 @@ Cada arquivo `.md` contém o contexto, o objetivo e o texto final do post.
 
 ## Posts
 
-### Publicados
-
-
-### Escritos
-
 - [FinanceSite | MediasSite](Posts/07-04-FinanceandMediasSite.md)
