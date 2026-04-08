@@ -10,3 +10,4 @@ Cada arquivo `.md` contém o contexto, o objetivo e o texto final do post.
 
 - [FinanceSite | MediasSite](Posts/07-04-FinanceandMediasSite.md)
 - [Home Server](Posts/07-04-HomeSever.md)
+- [Arquitetura Limpa - cleanMediasAPI](Posts/0804cleanArchMedias.md)
