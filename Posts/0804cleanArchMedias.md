@@ -1,7 +1,7 @@
 # Arquitetura Limpa - reimplementação da Medias API 
 
 08/04/2026 escrita 
-14/04/2026 publicação 
+15/04/2026 publicação 
 
 ---
 # Contexto 
