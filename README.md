@@ -12,3 +12,4 @@ Cada arquivo `.md` contém o contexto, o objetivo e o texto final do post.
 - [Home Server](Posts/07-04-HomeSever.md)
 - [Arquitetura Limpa - cleanMediasAPI](Posts/0804cleanArchMedias.md)
 - [ClassView](Posts/0804classView.md)
+- [Importação OFX e Dashboards Dinâmicos](Posts/0804ImportOFX.md)
