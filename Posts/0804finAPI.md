@@ -21,7 +21,7 @@ Microserviços
 
 A financeAPI é o projeto onde mais venho evoluindo a cada dia. Atualmente estou estudando a matéria de Sistemas Distribuídos na faculdade e decidi reimplementá-la como microsserviços - era a aplicação que fazia mais sentido para esse exercício.
 
-Dessa vez resolvi desenvolver em .Net com ASP.NET core e C# de maneira ainda completa, com Injeção de dependência, Clean Architecture, GraphQL, Kafka, JWT, OFX.
+Dessa vez resolvi desenvolver em .Net com ASP.NET core e C#. A api tem injeção de dependência,  GraphQL, Kafka, JWT, OFX.
 
 A arquitetura ficou dividida em 4 serviços:
 
@@ -36,4 +36,4 @@ O resultado é um sistema onde cada peça pode evoluir, escalar ou falhar de for
 
 No vídeo abaixo cada microsserviço está rodando em máquinas diferentes entre North Virgínia e Oregon na AWS. 
 
-repositório : https://github.com/GustavoDaMassa/financeAPI
+repositório : https://github.com/GustavoDaMassa/finAPIMS
