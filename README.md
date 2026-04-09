@@ -13,3 +13,4 @@ Cada arquivo `.md` contém o contexto, o objetivo e o texto final do post.
 - [Arquitetura Limpa - cleanMediasAPI](Posts/0804cleanArchMedias.md)
 - [ClassView](Posts/0804classView.md)
 - [Importação OFX e Dashboards Dinâmicos](Posts/0804ImportOFX.md)
+- [MSFinanceApi — Microsserviços](Posts/0804finAPI.md)
