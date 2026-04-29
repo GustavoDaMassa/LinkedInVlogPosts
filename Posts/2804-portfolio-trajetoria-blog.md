@@ -1,5 +1,5 @@
 ---
-status: escrito
+status: publicado 29/04/2026
 contexto: Implementação do módulo de Trajetória (timeline da jornada de desenvolvimento) e do Blog técnico no portfólio, com a estratégia de usar o LinkedIn como entrada e o blog como profundidade para quem quiser mais detalhes.
 objetivo: Mostrar a estratégia de conteúdo montada (LinkedIn como funil, blog como prova técnica) e os detalhes de implementação dos dois módulos — para atrair devs e recrutadores técnicos que valorizam raciocínio além do código.
 ---
